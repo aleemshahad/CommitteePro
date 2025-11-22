@@ -1,0 +1,5 @@
+{
+  "name": "CommitteePro - Digital ROSCA Manager",
+  "description": "A modern, offline-first React application for managing saving groups (Committees/BCs) with multi-language support (English/Urdu), digital draw system, and financial tracking. Built with React 18, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
