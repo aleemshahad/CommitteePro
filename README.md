@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Capacitor-6.0-1192e8?style=flat-square" alt="Capacitor">
   <img src="https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange?style=flat-square" alt="Gemini">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
-  [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml)
+(https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml)
 </p>
 
 ---
