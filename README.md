@@ -4,7 +4,7 @@
   <strong>کمیٹی پرو — ڈیجیٹل بچت کمیٹی اور بی سی مینجمنٹ سسٹم</strong><br>
   A modern, offline-first financial management system and Android mobile application designed to manage community savings groups (Committees, Kameti, BC, Chit Funds) with complete transparency, bilingual support (English & Urdu), digital lucky draws, and AI-assisted reminders.
 </p>
-
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml)
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Web-brightgreen?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/React-19-blue?style=flat-square" alt="React">
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Capacitor-6.0-1192e8?style=flat-square" alt="Capacitor">
   <img src="https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange?style=flat-square" alt="Gemini">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
-(https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/aleemshahad/CommitteePro/actions/workflows/jekyll-gh-pages.yml)
 </p>
 
 ---
