@@ -80,8 +80,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aleemshahad//CommitteePro.git
-   cd Android-Committee-Management-App
+   git clone https://github.com/aleemshahad/CommitteePro.git
+   cd CommitteePro
    ```
 
 2. **Install dependencies:**
