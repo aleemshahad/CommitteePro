@@ -80,7 +80,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aleemshahad/Android-Committee-Management-App.git
+   git clone https://github.com/aleemshahad//CommitteePro.git
    cd Android-Committee-Management-App
    ```
 
